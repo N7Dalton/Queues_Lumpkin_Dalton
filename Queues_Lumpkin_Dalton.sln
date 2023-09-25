@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues_Lumpkin_Dalton", "Queues_Lumpkin_Dalton\Queues_Lumpkin_Dalton.csproj", "{A3A03360-38E3-40BE-ABEB-22A9B4602E82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3A03360-38E3-40BE-ABEB-22A9B4602E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A03360-38E3-40BE-ABEB-22A9B4602E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A03360-38E3-40BE-ABEB-22A9B4602E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A03360-38E3-40BE-ABEB-22A9B4602E82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA0A5935-989D-4D19-9CBA-6F4705DFC155}
+	EndGlobalSection
+EndGlobal
